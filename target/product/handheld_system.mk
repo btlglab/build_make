@@ -65,6 +65,8 @@ PRODUCT_PACKAGES += \
     SecureElement \
     SharedStorageBackup \
     SimAppDialog \
+    SubstratumHelperService \
+    substratum-sysconfig.xml \
     Telecom \
     TelephonyProvider \
     TeleService \
@@ -78,6 +80,7 @@ PRODUCT_SYSTEM_SERVER_APPS += \
     FusedLocation \
     InputDevices \
     KeyChain \
+    SubstratumHelperService \
     Telecom \
 
 PRODUCT_COPY_FILES += \
